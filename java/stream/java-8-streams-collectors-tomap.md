@@ -1,4 +1,4 @@
-### In this quick tutorial we're going to cover [Collectors.toMap()](https://docs.oracle.com/javase/8/docs/api/index.html) method of Collectors class. This utility method of Collectors class used to collect Stream into a Map instance.
+## In this quick tutorial we're going to cover [Collectors.toMap()](https://docs.oracle.com/javase/8/docs/api/index.html) method of Collectors class. This utility method of Collectors class used to collect Stream into a Map instance.
 
 ### Following are the overloaded method of toMap() present in Collectors class:-
 
