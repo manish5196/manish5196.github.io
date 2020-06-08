@@ -1,0 +1,5 @@
+#Source
+https://help.github.com/en/enterprise/2.14/user/articles/setting-up-your-github-pages-site-locally-with-jekyll
+
+# Preview site locally
+-> bundle exec jekyll serve --port 8000
